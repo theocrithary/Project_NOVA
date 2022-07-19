@@ -1,5 +1,5 @@
 # Project_NOVA
-## A place for all things OpenShift and Dell Technologies
+## A joint initiative with Dell Technologies, Red Hat, Equinix & Intel to drive value added solutions for the APJ market.
 
 ## CSI Drivers
 
