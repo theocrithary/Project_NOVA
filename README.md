@@ -1,5 +1,5 @@
 # Project_NOVA
-## A joint initiative with Dell Technologies, Red Hat, Equinix & Intel to drive value added solutions for the APJ market.
+A joint initiative with Dell Technologies, Red Hat, Equinix & Intel to drive value added solutions for the APJ market.
 
 ## CSI Drivers
 
