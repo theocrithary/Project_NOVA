@@ -5,6 +5,8 @@
 
 ### PowerScale - CSI driver install using the OpenShift Console GUI
 - https://github.com/theocrithary/PowerScale-CSI-OpenShift-Console.git
+- Youtube video: https://youtu.be/ChpasqwvGTo
 
 ### PowerScale - CSI driver install using the Helm chart method through CLI
 - https://github.com/theocrithary/PowerScale-CSI-Helm.git
+- Youtube video: https://youtu.be/UcAD8upATek
