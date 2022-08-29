@@ -5,8 +5,8 @@ A joint initiative with Dell Technologies, Red Hat, Equinix & Intel to drive val
 
 ### PowerScale - CSI driver install using the OpenShift Console GUI
 - https://github.com/theocrithary/PowerScale-CSI-OpenShift-Console.git
-- Youtube video: https://youtu.be/ChpasqwvGTo
+- Youtube video: https://youtu.be/M8y5ZlCmMoY
 
 ### PowerScale - CSI driver install using the Helm chart method through CLI
 - https://github.com/theocrithary/PowerScale-CSI-Helm.git
-- Youtube video: https://youtu.be/UcAD8upATek
+- Youtube video: https://youtu.be/hAvvEV4FGdA
