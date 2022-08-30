@@ -13,3 +13,4 @@ A joint initiative with Dell Technologies, Red Hat, Equinix & Intel to drive val
 
 ### PowerFlex - CSI driver install using the OpenShift Console GUI
 - https://github.com/theocrithary/PowerFlex-CSI-OpenShift-Console.git
+- Youtube video: https://youtu.be/tRij5C9N9T4
